@@ -20,42 +20,25 @@ We also offered starter kits, ([Machine Learning Starter Kit](https://github.com
 
 As our event focused heavily on community in San Diego, we hosted our hackathon on campus at UC San Diego in the Computer Science and Engineering Building to show students what a university looks like and like as a college student. All meals during the event were catered by local restaurants and vendors.
 
-We hosted a couple non-technical and technical workshops to help students in their journey to build a project: *'Team building'*, *Github*, *Intro to Web Development*, *Intro to AI ML*, *Gartic Phone Social*, and *Project Pitching &Public Speaking*.
+We hosted a couple non-technical and technical workshops to help students in their journey to build a project: *Team building*, *Github*, *Intro to Web Development*, *Intro to AI ML*, *Gartic Phone Social*, and *Project Pitching &Public Speaking*.
 
 ## Event Metrics
 
 | Attendees |  Projects |
 | --------: | -----------------------------------------------------: |
-|        85 |  23 ([Project Gallery](https://tritonhacks-2025.devpost.com/project-gallery)) |
+|        103 |  23 ([Project Gallery](https://tritonhacks-2025.devpost.com/project-gallery)) |
 
-##### Attendees: 85 (1.19% increase from last year)
+##### Attendees: 103 (~20% increase from last year)
 ##### Projects: 23 [Project Gallery](https://tritonhacks-2025.devpost.com/project-gallery)
 
-##### Out of 29 feedback form respondents:
-- 57.1% of hackers came in with an idea; the rest of the students came up with an idea with their groups, with tutor/mentor input, or with workshop inspiration
+##### Out of 30 feedback form respondents:
+- 76.7% of hackers had their first hackathon at TritonHacks!
 - 100% of students received help when they needed it
 - 37.5% of students got an idea for their project from the starter kits
 - ###### **Post Hackathon**
     - 96.4% of students became more excited about college
     - **97.3% of students became more intersted in computer science after the hackathon**
-
-## Tech Impact / Diversity
-
-### Tell us about your hacker demographics
-
-As the objective of our hackathon was to reach out to San Diegan high school students of underrepresented backgrounds, we kept track of the hackers that attended. We had 58 males, 24 females, and 3 non-binary person. Roughly 32.9% of attendees were female.
-
-### What race & ethnicities did your hackers identify as?
-
-| Other | Native American / <br> Alaskan Native | Native Hawaiian / <br> other Pacific Islander | Decline to answer  | Hispanic / <br> Latinx | White | Asian |
-| ----: | ------------------------------------: | ----------------------------: | ---------------------: | ----: | ----: | ----: |
-| 2 |                                     0 |                             0 |                     4 |    23 |    14 | 42 |
-
-### First Generation Student
-
-| Yes | No | 
-| -----------: | ------------: | 
-|            24 |            61 | 
+    - 
 
 ## Top Projects
 
@@ -75,7 +58,7 @@ While all the projects can be found on our [Devpost gallery](https://tritonhacks
 
 ## Event Photos
 
-All of the photos can be found on our [public album](https://photos.app.goo.gl/k3mKVPbdcBaZmQrAA) but here's a few highlights!
+All of the photos can be found on our [public album](https://photos.google.com/share/AF1QipOfCghMGzv7MvSMLFYNr2Ce52T39hIRNpAD_71oamaDnruFNuiVCvcxgdyvhptaQg?key=WmRFbWV6ZDhpZ3k1ZUtsYzR6ZG51RGhnTHhWT1FB) but here's a few highlights!
 
 | :----------------------------------: |
 |         **Checking-in**         |
